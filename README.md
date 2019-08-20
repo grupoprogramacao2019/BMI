@@ -21,4 +21,4 @@ This project aims to create a BMI calculator, using the python language [[2]][re
 
 [ref1]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6396599/
 [ref2]: https://www.python.org
-[ref3]: https://github.com/tuliofalmeida/GrupoProg2019/wiki
+[ref3]: https://github.com/grupoprogramacao2019/BMI/wiki/Documentation
