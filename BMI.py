@@ -1,5 +1,5 @@
-alturaFloat = 1.59
-pesoFloat = 52.0
+alturaFloat = input("Digite sua altura: ")
+pesoFloat = input("Digite seu peso: ")
 
 imc = pesoFloat/(alturaFloat**2)
 print(imc)
